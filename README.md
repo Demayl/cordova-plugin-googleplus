@@ -1,5 +1,8 @@
 # Google Sign-In Cordova/PhoneGap Plugin
-by [Eddy Verbruggen](http://twitter.com/eddyverbruggen)
+forked from [Eddy Verbruggen](http://twitter.com/eddyverbruggen)
+
+This repo fixes conflicting symbols with the push plugin.
+# This repository will become inactive! So use at own risk!
 
 Last Update on 6/9/2016 by Sam Muggleworth ([PointSource, LLC](https://github.com/PointSource))
 
